@@ -4,6 +4,9 @@ body {
   font-family: Dosis;
 }
 
+.main {
+  margin-top: 25px;
+}
 
 h1 {
  font-weight: normal;
